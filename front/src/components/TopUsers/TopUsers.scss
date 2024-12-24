@@ -1,0 +1,23 @@
+.top-users {
+	height: 50%;
+
+	.charts-container {
+		width: 85%;
+		margin: auto;
+		padding: 2% 4%;
+		border-radius: 20px;
+		background-color: rgba(201, 201, 201, 0.1);
+		box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		text-align: center;
+	}
+
+	h4 {
+		color: #0066c1;
+		margin-top: 0;
+	}
+
+	h5,
+	h6 {
+		margin: 0.5em 0;
+	}
+}
