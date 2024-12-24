@@ -42,8 +42,6 @@
 ### Backend
 - **Service Design**: 
   - I opted to split the logic into separate services for better maintainability, readability, and adherence to the **Separation of Concerns (SOC)** principle, even though posts were our only resource.
-- **Testing**: 
-  - I did not include tests for the backend (honestly, I was just lazy), but the structure is ready for tests to be easily added in the future.
 - **Response Format**: 
   - All responses are returned in **camelCase** instead of the traditional **snake_case** for Python APIs. This decision aligns with the frontend's JavaScript convention of using camelCase.
 - **Simplified Design**: 
