@@ -20,7 +20,7 @@
    ```
 5. Start the backend server:
    ```bash
-   python app.py
+   python run.py
    ```
 
 ### Frontend
